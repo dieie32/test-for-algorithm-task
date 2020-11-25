@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-tasks",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "105-a.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaDenysenko/algorithm-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaDenysenko/algorithm-tasks/issues"
+  },
+  "homepage": "https://github.com/NikitaDenysenko/algorithm-tasks#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
